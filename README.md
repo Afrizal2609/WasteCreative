@@ -1,39 +1,29 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="assets/brillante_logos.png" alt="kotliteLogo" height="100">
-  </a>
-  <br>
-  <a href="#">
-    <img src="assets/kotlite_logo.png" alt="kotliteLogo" height="150">
+    <img src="assets/wastecreative.png" alt="wastecreativelogo" height="150">
   </a>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Team-Brillante-9e83fc">
-    <img src="https://img.shields.io/badge/ID-BA21_CAP0176-9e83fc?">
+    <img src="https://img.shields.io/badge/Team-WasteCreative-9e83fc">
+    <img src="https://img.shields.io/badge/ID-C22-PS061-9e83fc?">
   </p>
 
-  <h1 align="center">Kotlite (Angkot Elite) Project</h1>
+  <h1 align="center">WasteCreative Project</h1>
 
   <p align="center">
-    An Indonesian Ridesharing Application
+    Detection of household waste that has the potential to be a Creative Product
     <!-- <br /> -->
     <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the Projects »</strong></a> -->
     <br />
     <br />
     <strong>Our Project List</strong>
     <br>
-    <a href="https://github.com/kroniz-utab/kotlite_algorithm" target="_blank">
+    <a href="https://github.com/ahmadnurokhim/WasteCreative" target="_blank">
         <img src="https://img.shields.io/badge/Tensorflow-Kotlite_Algorithm-FF6F00?style=flat&logo=Tensorflow"></img>
     </a>
-    <a href="https://github.com/bismastr/kotliteApp" target="_blank">
+    <a href="https://github.com/kadabengarann/waste-creative" target="_blank">
         <img src="https://img.shields.io/badge/Kotlin-Kotlite_Apps-0095D5?style=flat&logo=Kotlin"></img>
-    </a>
-    <a href="https://github.com/vionaaindah/kotliteProjectAPI" target="_blank">
-        <img src="https://img.shields.io/badge/Django-Kotlite_API-092E20?style=flat&logo=Django"></img>
-    </a>
-    <a href="https://storage.googleapis.com/proud-lamp-312513/Kotlite.apk" target="_blank">
-        <img src="https://img.shields.io/badge/Download_APK-Demo_Ver.-3DDC84?style=flat&logo=Android"></img>
     </a>
   </p>
 </p>
@@ -60,31 +50,25 @@
 
 ## About The Project
 
-Indonesia’s major cities are suffering chronic congestion due to the growing number of vehicles in the country every year. Jakarta is one of the top 10 most congested in the world. Various solutions were proposed by the government as traffic congestion become one of the root issues accelerating air-pollution problem, CO2 emissions, delays, a higher chance of collisions, and the inability to forecast travel time accurately. The statistic shows the big reason society uses their vehicles is because of the mindset that they’ll reduce the travel time, but the reality proves how it turns out to be the opposite.
+Did you know, Based on data from the Ministry of Environment and Forestry (KLHK), 42.33% of waste in Indonesia comes from household activities. Household waste is the largest waste of the amount of waste generated. Household waste causes many negative impacts, it can cause illness that affect our wellbeing. It too can cause natural harm and contamination. Since all of that, it'll in the long run have an affect on social life of the community
 
-Kotlite is here as a breakthrough idea that answers the need of users to find drivers or passengers from and going to the same routes. It is designed to optimistically accelerate the transformation of the citizens' lifestyle to rideshare and network, eliminating incurable rush hour traffic and provide practicality for user's mobility from one place to another.
+Based on these problems, we are curious, how can we reduce the amount of household waste generated? Then we thought of a solution to create an android application that can help reduce the amount of household waste generated, namely WasteCreative. WasteCreative is an android application that can detect household waste objects and suggest crafts that can be made based on the detection results. We will also create a marketplace for buying and selling user-generated crafts. Besides being able to reduce the amount of household waste, this application also has the potential to help raise MSMEs in the creative industry welfare. This is the reason why we want to solve this problem.
 
 ## Team Members
 
-|         Member         | Student ID |        Path        |                Project Role                |                                                  Contacts                                                  |
-| :--------------------: | :--------: | :----------------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-|   Dzakiyyah Rosyadi    |  M0060566  |  Machine Learning  | Project Manager, Machine Learning Engineer |     [![kia-linkedin][linkedin-shield]][kia-linkedin-url][![kia-github][github-shield]][kia-github-url]     |
-|   Ade Hermawan Fajri   |  M1471710  |  Machine Learning  |         Machine Learning Engineer          |     [![ade-linkedin][linkedin-shield]][ade-linkedin-url][![ade-github][github-shield]][ade-github-url]     |
-|  Bisma Satria Nugraha  |  A0040278  | Mobile Development |              Mobile Developer              | [![bisma-linkedin][linkedin-shield]][bisma-linkedin-url][![bisma-github][github-shield]][bisma-github-url] |
-|     Ferry Pratama      |  C2472340  |  Cloud Computing   |                   DevOps                   | [![ferry-linkedin][linkedin-shield]][ferry-linkedin-url][![ferry-github][github-shield]][ferry-github-url] |
-| Siti Viona Indah Swari |  C2472348  |  Cloud Computing   |                   DevOps                   |     [![vio-linkedin][linkedin-shield]][vio-linkedin-url][![vio-github][github-shield]][vio-github-url]     |
-
-<!-- |   Hamonangan Sitorus   |  A1141446  | Mobile Development |              Mobile Developer              | [![monang-linkedin][linkedin-shield]][monang-linkedin-url][![monang-github][github-shield]][monang-github-url] | -->
+|         Member               | Student ID   |        Path        |                Project Role                |
+| :--------------------------: | :----------: | :----------------: | :----------------------------------------: | 
+|   Muhammad Afrizal Miqdad    |  M2247J2184  |  Machine Learning  |         Machine Learning Engineer          |  
+|       Ahmad Nurokhim         |  M2269J2329  |  Machine Learning  |         Machine Learning Engineer          |     
+|        Nurul Hikmah          |  M7247J2177  |  Machine Learning  |         Machine Learning Engineer          | 
+|     M.Gentha Arya Pratama    |  A2007F0710  | Mobile Development |             Mobile Developer               | 
+|  Muhammad Ardhy Satrio Jati  |  A7247J2183  | Mobile Development |             Mobile Developer               | 
+|     Nanda Afdlolul Basyar    |  C2332F2859  |  Cloud Computing   |                   DevOps                   | 
 
 ## Our Projects Repository
 
-- [Kotlite Android Apps](https://github.com/bismastr/kotliteApp)
-- [Kotlite RestAPI](https://github.com/vionaaindah/kotliteProjectAPI)
-- [Kotlite Matching Recommendations Algorithm](https://github.com/kroniz-utab/kotlite_algorithm)
-
-## Our Products
-
-- [Android Apps Installer .apk](https://storage.googleapis.com/proud-lamp-312513/Kotlite.apk) (8.1 Mb)
+- [WasteCreative Android Apps](https://github.com/bismastr/kotliteApp)
+- [WasteCreative Object Detection Algorithm](https://github.com/kroniz-utab/kotlite_algorithm)
 
 ### Prerequisites
 
@@ -92,38 +76,41 @@ Kotlite is here as a breakthrough idea that answers the need of users to find dr
 - Internet Connection
 - Location Services
 
-### Android Apps
-
-![workflow](assets/workflow_kotlite.jpg)
-
-<p align="center">
-  <img src="assets/splash.png" height="500"></img>&nbsp; &nbsp;<img src="assets/home.png" height="500">&nbsp; &nbsp;<img src="assets/recom_list.png" height="500">
-</p>
-
 ### API Documentations
 
 Our Rest API is the way for computer systems to communicate over HTTP in a similar way to web browsers and servers. We share databases between systems to enable our application, working effectively for our users.
 
-_For more usage, please refer to the [**Documentation**](http://kotlite.xyz/docs/)._
 
 ## Features of This Projects
 
-1. Driver Features
+1. Funcionality
+   - Register
+   - Login
+   - Setting Profile
+   - Viewing User Profile
+   - Viewing other User's Profile
+   - Carry out waste detection
+   - View recommendations from detection results
+   - Uploading crafts
+   - Viewing other users' craft uploads
+   - Giving likes to other users' craft uploads
+   - Commenting on other users' craft uploads
+   - Uploading products on the marketplace
+   - See other users' products in the marketplace
+   - Giving likes to other users' products in the marketplace
+   - Comment on other users' products in the marketplace
 
-   - Doing travel scheduling
-   - View the list of passengers who made a booking
-   - View passenger details
-   - Knowing the direction of each passenger who makes a booking
-   - Invoice
-
-2. Passenger Feature
-   - Get recommendations for drivers who have similar trips
-   - Doing travel scheduling
-   - Driver status notification
-   - Invoice
+2. Non Funcionality
+   - The application can run smoothly up to 100 concurrent users
+   - Application only runs on Android OS
+   - The process of detecting and recommending crafts that can be made in less than 10 seconds
+   - The system can be accessed in any area in Indonesia
+   - The system can only be accessed if connected to the internet
+   - The system has a user-friendly interface
+   - The system can guarantee the security of user data
 
 ## Acknowledgements
 
 <p align="center">
-  <img src="assets/bangkit.png" height="200"></img>&nbsp; &nbsp;<img src="assets/brillante_logos.png" height="200">
+  <img src="assets/bangkit.png" height="200"></img>&nbsp; &nbsp;<img src="assets/wastecreative.png" height="200">
 </p>
