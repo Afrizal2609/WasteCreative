@@ -78,8 +78,7 @@ Based on these problems, we are curious, how can we reduce the amount of househo
 
 ### API Documentations
 
-Our Rest API is the way for computer systems to communicate over HTTP in a similar way to web browsers and servers. We share databases between systems to enable our application, working effectively for our users.
-
+We build Rest API for application purposes. Such as looking for craft references, providing craft recommendations from detection results, managing craft data (Create, Read, Update, and Delete), and managing marketplace data (Create, Read, Update, and Delete)
 
 ## Features of This Projects
 
