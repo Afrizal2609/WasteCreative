@@ -20,10 +20,10 @@
     <strong>Our Project List</strong>
     <br>
     <a href="https://github.com/ahmadnurokhim/WasteCreative" target="_blank">
-        <img src="https://img.shields.io/badge/Tensorflow-Kotlite_Algorithm-FF6F00?style=flat&logo=Tensorflow"></img>
+        <img src="https://img.shields.io/badge/Tensorflow-Kotlite_Algorithm-FF6F00?style=flat&logo=Tensorflow">
     </a>
     <a href="https://github.com/kadabengarann/waste-creative" target="_blank">
-        <img src="https://img.shields.io/badge/Kotlin-Kotlite_Apps-0095D5?style=flat&logo=Kotlin"></img>
+        <img src="https://img.shields.io/badge/Kotlin-Kotlite_Apps-0095D5?style=flat&logo=Kotlin">
     </a>
   </p>
 </p>
