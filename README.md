@@ -6,7 +6,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Team-WasteCreative-9e83fc">
-    <img src="https://img.shields.io/badge/ID-C22-PS061-9e83fc?">
+    <img src="https://img.shields.io/badge/C22-PS061-9e83fc?">
   </p>
 
   <h1 align="center">WasteCreative Project</h1>
@@ -20,10 +20,10 @@
     <strong>Our Project List</strong>
     <br>
     <a href="https://github.com/ahmadnurokhim/WasteCreative" target="_blank">
-        <img src="https://img.shields.io/badge/Tensorflow-Kotlite_Algorithm-FF6F00?style=flat&logo=Tensorflow">
+        <img src="https://img.shields.io/badge/Tensorflow-WasteCreative_Algorithm-FF6F00?style=flat&logo=Tensorflow">
     </a>
     <a href="https://github.com/kadabengarann/waste-creative" target="_blank">
-        <img src="https://img.shields.io/badge/Kotlin-Kotlite_Apps-0095D5?style=flat&logo=Kotlin">
+        <img src="https://img.shields.io/badge/Kotlin-WasteCreative_Apps-0095D5?style=flat&logo=Kotlin">
     </a>
   </p>
 </p>
