@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/Tensorflow-WasteCreative_Algorithm-FF6F00?style=flat&logo=Tensorflow">
     </a>
     <a href="https://github.com/kadabengarann/waste-creative" target="_blank">
-        <img src="https://img.shields.io/badge/Java-WasteCreative_Apps-0095D5?style=flat&logo=Java">
+        <img src="https://img.shields.io/badge/Kotlin-WasteCreative_Apps-0095D5?style=flat&logo=Kotlin">
     </a>
   </p>
 </p>
