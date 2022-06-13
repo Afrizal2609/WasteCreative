@@ -69,6 +69,7 @@ Based on these problems, we are curious, how can we reduce the amount of househo
 
 - [WasteCreative Android Apps](https://github.com/kadabengarann/waste-creative)
 - [WasteCreative Object Detection Algorithm](https://github.com/ahmadnurokhim/WasteCreative)
+- [WasteCreative API](https://github.com/nandaafd/wastecreative)
 
 ### Prerequisites
 
