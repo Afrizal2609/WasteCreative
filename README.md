@@ -63,7 +63,7 @@ Based on these problems, we are curious, how can we reduce the amount of househo
 |        Nurul Hikmah          |  M7247J2177  |  Machine Learning  |         Machine Learning Engineer          | 
 |     M.Gentha Arya Pratama    |  A2007F0710  | Mobile Development |             Mobile Developer               | 
 |  Muhammad Ardhy Satrio Jati  |  A7247J2183  | Mobile Development |             Mobile Developer               | 
-|     Nanda Afdlolul Basyar    |  C2332F2859  |  Cloud Computing   |                   DevOps                   | 
+|     Nanda Afdlolul Basyar    |  C2332F2859  |  Cloud Computing   |              DevOps Engineer               | 
 
 ## Our Projects Repository
 
